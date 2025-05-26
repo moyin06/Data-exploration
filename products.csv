@@ -1,0 +1,11 @@
+product_id,product_name,category,size,price,stock
+101,Denim Jacket,Outerwear,M,59.99,500
+102,Graphic T-Shirt,Tops,L,19.99,1500
+103,Chinos,Bottoms,L,39.99,1000
+104,Hoodie,Outerwear,XL,49.99,800
+105,Maxi Dress,Dresses,M,69.99,400
+106,Puffer Coat,Outerwear,L,89.99,300
+107,Tank Top,Tops,S,14.99,1200
+108,Jeans,Bottoms,S,49.99,1000
+109,Blazer,Outerwear,M,79.99,350
+110,Skirt,Bottoms,S,29.99,600
