@@ -32,9 +32,6 @@ Sample Business Questions Solved
 4. Which products underperform based on average quantity sold?
 5. What are the busiest sales days?
 
-
----
-
 🔗 Connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/abel-momorebe-a4b85931b/))  
 🐦 Follow my updates on [X (Twitter)]([https://x.com](https://x.com/its_moye))
 
